@@ -1,0 +1,145 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+  background: url(../img/Camp\ nou.jpg);
+  color: white;
+}
+
+#Contenedor {
+    width: 1000px;
+    margin: auto;
+    margin-top: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+
+}
+
+header {
+    height: 125px;
+    background-color: blue;
+}
+
+header h1 {
+    font-size: 100px;
+    text-align: center;
+    line-height: 150px;
+    margin-bottom: 15px;
+    
+}
+
+nav .MenuNav {
+    background-color: red;
+    list-style: none;
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    text-decoration: none;
+}
+
+.MenuNav li {
+    padding: 20px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 20px;
+}
+
+nav li a {
+    text-decoration: none;
+    background-color: yellow; 
+   
+}
+
+.MenuNav li a:hover{
+    background-color: white;
+}
+
+
+
+section {
+    width: 1000px;
+    height: 2500px;
+    float: left;
+    background-color: blue;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+section p {
+    font-size: 20px;
+    height: 100px;
+    margin-left: 90px;
+    margin-right: 90px;
+  
+}
+section h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+section img {
+    width: 920px;
+    height: 400px;
+    margin-left: 35px;
+
+}
+
+.copas {
+    background-color: yellow;
+    width: 500px;
+    height: 150px;
+    margin-top: 15px;
+    margin-left: 240px;
+}
+
+.copas img {
+    float: left;
+    width: 150px;
+    height: 120px;
+    margin-top: 15px;
+}
+
+.copas p {
+    font-size: 12px;
+    margin-top: 10px;
+    color: black;
+    margin-left: 193px;
+
+}
+
+.copas h1 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22.7px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: red;
+    clear: both;
+
+}
+
+footer h6 {
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    
+}
+
